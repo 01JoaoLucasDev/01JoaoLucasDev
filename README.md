@@ -24,11 +24,11 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
 <div align="center">
 
-| Linguagens | Frameworks & APIs | Banco de Dados | Ferramentas |
+| Linguagens | Frameworks | Banco de Dados | Ferramentas |
 | :--- | :--- | :--- | :--- |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![REST_API](https://img.shields.io/badge/REST_API-0A0A0A?style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
@@ -40,23 +40,22 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 ## 🚀 Projetos em Destaque
 
 ### 🏍️ [Sistema de Aluguel de Motos (TCC)](https://github.com/01JoaoLucasDev)
-Desenvolvimento de uma plataforma completa para locação de veículos. Inclui regras de negócio para reservas, controle de frota e gestão de usuários, utilizando Java para garantir a robustez do sistema.
+Desenvolvimento de uma plataforma completa para locação de veículos. Inclui regras de negócio para reservas, controle de frota e gestão de usuários.
 
 ### ⚙️ [Spring Boot Ecosystem](https://github.com/01JoaoLucasDev)
-Conjunto de APIs focadas em estudos avançados: integração com bancos de dados, segurança com JWT, tratamento de exceções e documentação com Swagger.
-
-### 🎨 [Aplicações Desktop (SENAI)](https://github.com/01JoaoLucasDev)
-Projetos desenvolvidos com JavaFX e Swing durante a formação técnica, aplicando padrões de Orientação a Objetos e lógica estruturada.
+Conjunto de APIs focadas em estudos avançados: integração com bancos de dados, segurança com JWT e tratamento de exceções.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats de João](https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
-![Linguagens de João](https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=01JoaoLucasDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
