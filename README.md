@@ -18,9 +18,16 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 
 > "Acredito que um bom backend não é apenas código que funciona — é código que suporta o crescimento."
 
-* 🎓 Graduando em Sistemas de Informação (Previsão 2026).
-* ⚙️ Especialista em desenvolvimento de APIs RESTful com Spring Boot.
+* ⚙️ Especialista em desenvolvimento de APIs RESTful com **Spring Boot**.
 * 🧠 Aplicando conceitos de **SOLID**, **Clean Code** e **Arquitetura em Camadas**.
+
+---
+
+## 🎓 Formação & Foco Atual
+
+* **Graduação:** Sistemas de Informação (EAD) — Previsão 2026.
+* **Técnico:** Desenvolvimento de Sistemas — SENAI (Concluído).
+* **Estudando agora:** Microserviços, Docker e padrões de persistência de dados.
 
 ---
 
@@ -40,24 +47,13 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 ## 🚀 Projetos em Destaque
 
 ### 🏍️ [Sistema de Aluguel de Motos (TCC)](https://github.com/01JoaoLucasDev)
-Desenvolvimento de uma plataforma completa para locação de veículos. Inclui regras de negócio para reservas, controle de frota e gestão de usuários.
+Desenvolvimento de uma plataforma completa para locação de veículos. Inclui regras de negócio complexas para reservas, controle de frota e gestão de usuários.
 
 ### ⚙️ [Spring Boot Ecosystem](https://github.com/01JoaoLucasDev)
 Conjunto de APIs focadas em estudos avançados: integração com bancos de dados, segurança com JWT e tratamento de exceções.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01JoaoLucasDev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
+### 🎨 [Aplicações Desktop](https://github.com/01JoaoLucasDev)
+Projetos desenvolvidos com JavaFX durante a formação técnica, aplicando padrões de Orientação a Objetos.
 
 ---
 
