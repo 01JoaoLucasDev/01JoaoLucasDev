@@ -3,7 +3,7 @@
 # ⚡ João Lucas ⚡
 ### **Backend Developer | Java & Spring Boot**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=7B68EE&center=true&vCenter=true&width=560&lines=Building+Robust+APIs;Java+%26+Spring+Boot+Developer;Information+Systems+Student+2026;Clean+Code+%26+Scalability" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=7B68EE&center=true&vCenter=true&width=560&lines=Building+Robusto+APIs;Java+%26+Spring+Boot+Developer;Informação+Sistema+Aluno+2026;Clean+Code+%26+Scalability" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucascosta32@gmail.com)
@@ -16,7 +16,6 @@
 
 Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Focado no ecossistema **Java**, transformando lógica de negócio em APIs eficientes e seguras.
 
-> "Acredito que um bom backend não é apenas código que funciona — é código que suporta o crescimento."
 
 * ⚙️ Especialista em desenvolvimento de APIs RESTful com **Spring Boot**.
 * 🧠 Aplicando conceitos de **SOLID**, **Clean Code** e **Arquitetura em Camadas**.
