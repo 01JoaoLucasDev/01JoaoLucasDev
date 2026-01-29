@@ -1,9 +1,13 @@
 <div align="center">
 
-# João Lucas
-### Backend Developer • Java & Spring Boot
+# ⚡ João Lucas ⚡
+### **Backend Developer | Java & Spring Boot Enthusiast**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=600&color=7B68EE&center=true&vCenter=true&width=540&lines=Backend+Developer+em+formação;Java+%7C+Spring+Boot;APIs+robustas+e+bem+estruturadas;Sistemas+de+Informação+-+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=7B68EE&center=true&vCenter=true&width=560&lines=Building+Robust+APIs;Java+%26+Spring+Boot+Developer;Information+Systems+Student+2026;Clean+Code+%26+Scalability" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaolucascosta32@gmail.com)
+[![Portfolio](https://img.shields.io/badge/My_Portfolio-7B68EE?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/01JoaoLucasDev)
 
 </div>
 
@@ -11,10 +15,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação**, focado em **desenvolvimento backend com Java**.  
-Tenho interesse em criar sistemas organizados, escaláveis e bem pensados, aplicando boas práticas, padrões e responsabilidade técnica.
+Estudante de **Sistemas de Informação** com sólida base técnica pelo **SENAI**. Meu foco é o ecossistema **Java**, onde busco transformar requisitos de negócio em APIs de alta performance.
 
+> "Acredito que um bom backend não é apenas código que funciona — é código que **suporta o crescimento** e facilita a manutenção."
 
+* 🌱 Atualmente aprimorando conhecimentos em **Microserviços e Docker**.
+* 🎓 Focado em aplicar **SOLID, Design Patterns e Clean Code**.
+* 💻 Desenvolvendo projetos que resolvem problemas reais.
 
 ---
 
@@ -22,61 +29,50 @@ Tenho interesse em criar sistemas organizados, escaláveis e bem pensados, aplic
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![REST API](https://img.shields.io/badge/REST%20API-0A0A0A?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
+| Linguagens & Frameworks | Cloud & Bancos de Dados | Ferramentas & DevOps |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![REST_API](https://img.shields.io/badge/REST_API-0A0A0A?style=flat-square&logo=target&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Projetos de Impacto
 
-🔹 **Sistema de Aluguel de Motos (TCC)**  
-Aplicação web desenvolvida como Trabalho de Conclusão de Curso, com foco em cadastro de usuários, reservas, controle de veículos e regras de negócio.
+### 🏍️ [Sistema de Aluguel de Motos (TCC)](https://github.com/01JoaoLucasDev)
+Desenvolvimento completo de uma plataforma de locação. Implementei regras de negócio complexas para reservas, controle de frota e gestão de usuários, focando em segurança e integridade dos dados.
 
-🔹 **APIs REST com Spring Boot**  
-Projetos voltados à prática de arquitetura em camadas, integração com banco de dados, validações e boas práticas REST.
+### 💰 [GoalWallet](https://github.com/01JoaoLucasDev)
+Sistema de controle financeiro pessoal. Um projeto voltado para a organização de metas e gestão de gastos, aplicando arquitetura em camadas e boas práticas de UX no backend.
 
-🔹 **Aplicações Desktop com JavaFX**  
-Desenvolvimento de aplicações desktop durante o curso técnico, aplicando lógica, orientação a objetos e interfaces gráficas.
+### ⚙️ [Spring Boot Ecosystem](https://github.com/01JoaoLucasDev)
+Repositório de APIs RESTful onde aplico conceitos avançados de persistência de dados, autenticação e tratamento de exceções customizadas.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Performance & Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=01JoaoLucasDev&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧠 Mentalidade
+## 🧠 Filosofia de Desenvolvimento
 
-- Código limpo > código rápido  
-- Aprender todos os dias  
-- Evoluir um pouco a cada commit  
-
----
-
-## 📬 Contato
-
-<div align="center">
-
-📧 **Email:** joaolucascosta32@gmail.com  
-💻 **GitHub:** [github.com/01JoaoLucasDev](https://github.com/01JoaoLucasDev)
-
-</div>
+* **Código Limpo:** Priorizo legibilidade sobre "truques" de código.
+* **Evolução Constante:** Cada commit é uma oportunidade de aprender algo novo.
+* **Responsabilidade:** O backend é o coração do software; ele deve ser resiliente.
 
 ---
 
 <div align="center">
 
-⚡ *Backend bem feito não aparece — mas quando falta, todo mundo sente.* ⚡  
+⚡ *Backend bem feito não aparece — mas quando falta, todo mundo sente.* ⚡
 
 </div>
