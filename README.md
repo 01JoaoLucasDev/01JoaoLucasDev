@@ -24,7 +24,7 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 
 ## 🎓 Formação & Foco Atual
 
-* **Graduação:** Sistemas de Informação (EAD) — Previsão 2026.
+* **Graduação:** Sistemas de Informação - IFMG —  2026.
 * **Técnico:** Desenvolvimento de Sistemas — SENAI (Concluído).
 * **Estudando agora:** Microserviços, Docker e padrões de persistência de dados.
 
