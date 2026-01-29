@@ -55,10 +55,17 @@ Repositório de APIs RESTful onde aplico conceitos avançados de persistência d
 ## 📊 Performance & Stats
 
 <div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=01JoaoLucasDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=01JoaoLucasDev&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=01JoaoLucasDev&theme=tokyonight&hide_border=true" alt="Streak de contribuições" />
 </div>
 
 ---
