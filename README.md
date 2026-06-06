@@ -26,8 +26,7 @@ Estudante de **Sistemas de Informação** com base técnica pelo **SENAI**. Foca
 
 * **Graduação:** Sistemas de Informação - IFMG —  2026.
 * **Técnico:** Desenvolvimento de Sistemas — SENAI (Concluído).
-* **Estudando agora:** Microserviços, Docker e padrões de persistência de dados.
-
+  
 ---
 
 ## 🛠️ Tech Stack
